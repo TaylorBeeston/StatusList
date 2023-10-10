@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
+  "id": "https://TaylorBeeston.github.io/StatusList/ETIYYYIW63",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "credentialSubject": {
+    "id": "https://TaylorBeeston.github.io/StatusList/ETIYYYIW63#list",
+    "type": "StatusList2021",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "statusPurpose": "revocation"
+  },
+  "issuer": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
+  "issuanceDate": "2023-10-10T21:50:46.964Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2023-10-10T21:50:46Z",
+    "verificationMethod": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH#z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z46Tv78hyL6eKpBPMa1WjREEb4pMJ6XYWb5n2CavNucjp98qxCArzN9woxqCADb5Y8fW8yU1pKUkMRKfS3KdRcUB8"
+  }
+}
