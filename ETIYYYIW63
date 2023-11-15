@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://TaylorBeeston.github.io/StatusList/ETIYYYIW63#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIIP_N_vCBKQBAAAAAAAAAAAAAAC4G4NMzM3UMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
-  "issuanceDate": "2023-10-10T21:50:46.964Z",
+  "issuanceDate": "2023-11-15T17:58:36.819Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-10-10T21:50:46Z",
+    "created": "2023-11-15T17:58:36Z",
     "verificationMethod": "did:key:z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH#z6MkmYGgibfx6dbjXHTzqwvyC4vhM3oEPK9GdH7xkqBFxWAH",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z46Tv78hyL6eKpBPMa1WjREEb4pMJ6XYWb5n2CavNucjp98qxCArzN9woxqCADb5Y8fW8yU1pKUkMRKfS3KdRcUB8"
+    "proofValue": "zBPkXySMykZ6rYJLHovnR6Fj89HWauGvfYfBTbv33VTihE1aSiqFpyEgw2a3PcRpT747BZ3uxgJdrXkkm8kfYG1H"
   }
 }
